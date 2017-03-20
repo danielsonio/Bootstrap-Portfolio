@@ -1,0 +1,135 @@
+
+    html {
+      position: relative;
+      min-height: 100%;
+    }
+
+    body {
+      background-image: url("images/contemporary_china.png");
+      font-family: 'Open Sans';
+      color: #777777;
+      line-height: 25px;
+      margin-bottom: 60px;
+
+    }
+
+    
+
+    .navbar-default .navbar-brand {
+      
+      background-color: #4aaaa5;
+      font-family: "PT Serif";
+      font-size: 32px;   
+      color: #ffffff;
+
+
+    }
+
+    .navbar-default .navbar-right a {
+
+    }
+
+    .navbar-default .navbar-right a.r{
+      border-right: 1px solid #dddddd; 
+
+    }
+
+    .col-md-9, .col-md-8 {
+      background-color: #ffffff;
+      margin-bottom: 20px;
+    }
+
+    .row .col-md-8 {
+      border: 1px solid #dddddd;
+      padding-top: 0px;
+      padding-bottom: 15px; 
+      margin-bottom: 50px;
+
+    }
+
+    .row .page-header {
+      font-family: "PT Serif";
+      color: #4aaaa5;
+
+      margin-bottom: 15px;
+      margin-top: 5px;
+
+    }
+
+    .row .col-md-8 img.me {
+      float: left;
+      margin: 10px;
+      width: 200px;
+      height: 200px;
+
+    }
+
+    .panel-title {
+      font-family: "PT Serif";
+      color: #4aaaa5;
+      font-size: 22px;
+      padding: 8px; 
+
+    }
+
+   .row .panel-heading {
+      background-color: #ffffff;
+      margin-left: 25px;
+      margin-right: 25px; 
+
+    }
+
+    .row .panel-body {
+      padding: 20px;
+    }
+
+
+    .row .btn {
+        background-color: #4aaaa5;
+        font-size: 16px;   
+        color: #ffffff;
+        padding: 10px 15px 10px 15px;
+        margin-top: 20px;
+    }
+    
+
+
+
+   .panel-footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      background-color: #666666;
+      color: #ffffff;
+      padding: 20px;
+      border-top: 10px solid #4aaaa5;
+    }
+
+
+    .portfolio {
+      position: relative;
+      float: left;
+      margin: 15px;
+    }
+
+    .caption {
+      text-align: center;
+      font-size: 18px;
+      position: absolute;
+      bottom: 10pt;
+      left: 0;
+      background: #4aaaa5;
+      width: 100%;
+      padding: 18px;
+      box-sizing: border-box;
+      color: #ffffff;
+    }
+
+    .pimg {
+      width:275px; 
+      height:190px;
+    }
+
+
+
+
